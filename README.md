@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hello there 👋
+  
+https://www.codewars.com/users/Jotunn1/badges/large
 <!--
 **Jotunn1/Jotunn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
