@@ -37,7 +37,6 @@
 <p>
  <img align="right" width="350" src="/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: <a href="https://t.me/Jotunn1" target="_blank">@Jotunn1</a><br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/Jotunn1/Jotunn1/issues)
