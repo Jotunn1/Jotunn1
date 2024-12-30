@@ -37,7 +37,7 @@
 <p>
  <img align="right" width="350" src="/programmer.gif" alt="Coding gif" />
   
- ❤️ &emsp; I thrive in building dynamic user interfaces, solving complex problems, and continuously exploring the latest advancements in the JavaScript ecosystem. My goal is to create seamless, accessible, and performance-driven web experiences for users.<br/>
+ ❤️ &emsp; I thrive in building dynamic user interfaces, solving complex problems, and continuously exploring the latest advancements in the JavaScript ecosystem. My goal is to create seamless, accessible, and performance-driven web experiences for users.<br/><br/><br/>
  📧 &emsp; Reach me anytime: <a href="https://t.me/Jotunn1" target="_blank">@Jotunn1</a><br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/Jotunn1/Jotunn1/issues)
 
